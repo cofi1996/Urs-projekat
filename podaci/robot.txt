@@ -1,0 +1,2 @@
+RB1|Robot 1|Proizvodjac 1|
+RB2|Robot 2|Proizvodjac 2|

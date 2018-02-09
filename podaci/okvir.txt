@@ -1,0 +1,2 @@
+O1|Okvir 1|50|100|100|50|Materijal 1|RB1|
+O2|Okvir 2|100|100|120|70|Materijal 2|RB2|

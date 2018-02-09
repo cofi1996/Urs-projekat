@@ -1,0 +1,2 @@
+S1|Senzor 1|5|10|15|Toplotni|Merna jedinica 1|140|20|2|RB1|
+S2|Senzor 2|3|6|5|Svetlosni|Merna jedinica 2|50|40|5|RB2|

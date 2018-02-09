@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+encoding//src/roboti/aplikacija.py=UTF-8
+encoding//src/roboti/cuvanje/citanje_iz_fajla.py=UTF-8
+encoding//src/roboti/cuvanje/putanje.py=UTF-8
+encoding//src/roboti/cuvanje/upis_u_fajl.py=UTF-8
+encoding//src/roboti/model.py=UTF-8
+encoding//src/roboti/view/glavni.py=UTF-8
+encoding//src/roboti/view/motori.py=UTF-8
+encoding//src/roboti/view/okviri.py=UTF-8
+encoding//src/roboti/view/roboti.py=UTF-8
+encoding//src/roboti/view/senzori.py=UTF-8
+encoding//src/roboti/view/util.py=UTF-8
+encoding//src/roboti/vrednosti.py=UTF-8
+encoding/conf.py=utf-8
