@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 #
 # Dokumentacija projekta iz URS documentation build configuration file, created by
-# sphinx-quickstart on Sat Jul  8 18:49:46 2017.
+# a evil potato on Sat Jul  8 18:49:46 2017.
 #
 # This file is execfile()d with the current directory set to its
 # containing dir.
@@ -48,8 +48,8 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'Dokumentacija projekta iz URS'
-copyright = '2017, Tim20'
-author = 'Tim20'
+copyright = '2017, Tim420'
+author = 'Tim420'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
